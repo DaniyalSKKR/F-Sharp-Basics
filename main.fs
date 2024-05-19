@@ -3,13 +3,10 @@
 // about the # of vowels and digraphs in that string.
 //
 // Name: Daniyal Khokhar
-// UIC NetID: 667875169
-// 
 //
 // Original author:
 //   Prof. Joe Hummel
 //   U. of Illinois, Chicago
-//   CS 341, Spring 2022
 //
 
 //
